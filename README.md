@@ -32,7 +32,7 @@ CricketSummaryVid is an open-source Golang project that utilizes Amazon Polly, O
 
 ## Contributing
 
-If you'd like to contribute to CricketSummaryVid. I welcome your suggestions, bug reports, and pull requests.
+If you'd like to contribute to CricketSummaryVid-Golang-AWS-Polly-OpenAI. I welcome your suggestions, bug reports, and pull requests.
 
 ## Acknowledgments
 
