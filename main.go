@@ -15,14 +15,26 @@ import (
 //	SIZE         = "1024x1024"
 //)
 
+const (
+	FFMPEG_PATH = "/Users/mukulverma/Downloads/ffmpeg"
+)
+
 func main() {
 
-	commentary := []string{
-		"a boy is playing",
-		"a dog is barking",
-	}
+	//commentary := []string{
+	//	"a boy is playing",
+	//	"a dog is barking",
+	//}
+
 	// get data from scraper
-	// commentary := scrapeData()
+	//matchLink := "https://www.cricbuzz.com/cricket-scores/82374/nep-vs-sin-1st-match-group-a-icc-mens-t20i-world-cup-asia-finals-2023"
+	matchLink := "https://www.cricbuzz.com/cricket-scores/82376/uae-vs-bhr-2nd-match-group-b-icc-mens-t20i-world-cup-asia-finals-2023"
+
+	commentary, err := scrapeData(matchLink)
+	if err != nil {
+		fmt.Println("Error from scrapeData:", err.Error())
+		return
+	}
 
 	chunks := []string{}
 
