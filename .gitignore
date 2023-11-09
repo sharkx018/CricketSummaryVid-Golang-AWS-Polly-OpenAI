@@ -1,0 +1,6 @@
+./secrets.go
+*.mp3
+*.mp4
+*.png
+
+.idea
