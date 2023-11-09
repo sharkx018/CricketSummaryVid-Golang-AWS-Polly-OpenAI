@@ -41,6 +41,6 @@ If you'd like to contribute to CricketSummaryVid. I welcome your suggestions, bu
 
 ## Contact
 
-For questions or inquiries, please contact [your-email@example.com].
+For questions or inquiries, please contact aryanv018@gmail.com.
 
 Happy coding :)
