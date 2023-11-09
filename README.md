@@ -16,7 +16,7 @@ CricketSummaryVid is an open-source Golang project that utilizes Amazon Polly, O
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/CricketSummaryVid.git
+    git clone https://github.com/sharkx018/CricketSummaryVid-Golang-AWS-Polly-OpenAI.git
     ```
 
 2. **Obtain API Keys:**
