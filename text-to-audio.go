@@ -3,7 +3,6 @@ package main
 import (
 	"fmt"
 	"github.com/aws/aws-sdk-go/aws"
-	"github.com/aws/aws-sdk-go/aws/credentials"
 	"github.com/aws/aws-sdk-go/aws/session"
 	"github.com/aws/aws-sdk-go/service/polly"
 	"io"
@@ -11,20 +10,20 @@ import (
 	"os"
 )
 
-func textToAudio(text string, id string) {
+func textToAudio(text string, id string, sess *session.Session) {
 
 	fileName := fmt.Sprintf("audio-%s.mp3", id)
 
-	// Specify the AWS region and create a session
-	region := REGION // Change this to your desired AWS region
-	sess, err := session.NewSession(&aws.Config{
-		Region: aws.String(region),
-		Credentials: credentials.NewStaticCredentials(AWS_ACCES_ID,
-			AWS_SECRET, ""),
-	})
-	if err != nil {
-		log.Fatalf("Failed to create session: %v", err)
-	}
+	//// Specify the AWS region and create a session
+	//region := REGION // Change this to your desired AWS region
+	//sess, err := session.NewSession(&aws.Config{
+	//	Region: aws.String(region),
+	//	Credentials: credentials.NewStaticCredentials(AWS_ACCES_ID,
+	//		AWS_SECRET, ""),
+	//})
+	//if err != nil {
+	//	log.Fatalf("Failed to create session: %v", err)
+	//}
 
 	// Create a Polly client
 	svc := polly.New(sess)

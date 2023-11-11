@@ -2,9 +2,14 @@ package main
 
 import (
 	"fmt"
+	"github.com/aws/aws-sdk-go/aws"
+	"github.com/aws/aws-sdk-go/aws/credentials"
+	"github.com/aws/aws-sdk-go/aws/session"
+	"log"
 	"strconv"
 )
 
+// create your api-keys
 //const (
 //	AWS_ACCES_ID = "****"
 //	AWS_SECRET   = "****"
@@ -15,14 +20,19 @@ import (
 //	SIZE         = "1024x1024"
 //)
 
+var awsSess *session.Session
+
 const (
-	FFMPEG_PATH = "/Users/mukulverma/Downloads/ffmpeg"
+	FfmpegPath = "/Users/mukulverma/Downloads/ffmpeg"
 )
+
+func init() {
+	initAWSSession()
+}
 
 func main() {
 
 	// get data from scraper
-	//matchLink := "https://www.cricbuzz.com/cricket-scores/82374/nep-vs-sin-1st-match-group-a-icc-mens-t20i-world-cup-asia-finals-2023"
 	matchLink := "https://www.cricbuzz.com/cricket-scores/82376/uae-vs-bhr-2nd-match-group-b-icc-mens-t20i-world-cup-asia-finals-2023"
 
 	commentary, err := scrapeData(matchLink)
@@ -36,7 +46,7 @@ func main() {
 	for id, text := range commentary {
 
 		// create the audio file
-		textToAudio(text, strconv.Itoa(id))
+		textToAudio(text, strconv.Itoa(id), awsSess)
 
 		// create the image file
 		downloadImage(text, strconv.Itoa(id))
@@ -53,5 +63,22 @@ func main() {
 
 	//delete temporary files
 	//DeleteTempFiles(commentary)
+
+}
+
+func initAWSSession() {
+
+	// Specify the AWS region and create a session
+	region := REGION // Change this to your desired AWS region
+	sess, err := session.NewSession(&aws.Config{
+		Region: aws.String(region),
+		Credentials: credentials.NewStaticCredentials(AWS_ACCES_ID,
+			AWS_SECRET, ""),
+	})
+	if err != nil {
+		log.Fatalf("Failed to create session: %v", err)
+	}
+
+	awsSess = sess
 
 }

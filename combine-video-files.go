@@ -41,7 +41,7 @@ func CombineChunks(inputFiles []string) {
 	args = append(args, "-map", "[vout]", "-map", "[aout]", "-strict", "-2", fileName)
 
 	//cmd := exec.Command("/Users/mukulverma/Downloads/ffmpeg", args...)
-	cmd := exec.Command(FFMPEG_PATH, args...)
+	cmd := exec.Command(FfmpegPath, args...)
 	// Set the output and error streams to os.Stdout and os.Stderr
 	cmd.Stdout = os.Stdout
 	cmd.Stderr = os.Stderr

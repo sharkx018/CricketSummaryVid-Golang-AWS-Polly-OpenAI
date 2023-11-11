@@ -18,7 +18,7 @@ func createVideoChunk(id string) {
 
 	// Full path to the ffmpeg executable (replace with the actual path)
 	//ffmpegPath := "/Users/mukulverma/Downloads/ffmpeg"
-	ffmpegPath := FFMPEG_PATH
+	ffmpegPath := FfmpegPath
 
 	// Use FFmpeg to combine the audio and image into a video
 	cmd := exec.Command(ffmpegPath,
