@@ -1,97 +1,97 @@
  ICC Mens T20I World Cup Asia Finals 2023 (United Arab Emirates vs Bahrain)
  United Arab Emirates wins the toss and decided to Bowling
- batting team: BHR, Score: 1, Overs: 0.6, Innings: 1, batStrikerName: Umer Toor, batStrikerRuns: 1, non-batStrikerName: Imran Ali Butt, nonbatStrikerRuns: 0,
+Over Summary: batting team: BHR, Score: 1, Overs: 0.6, Innings: 1, batStrikerName: Umer Toor, batStrikerRuns: 1, non-batStrikerName: Imran Ali Butt, nonbatStrikerRuns: 0,
  Junaid Siddique to Umer Toor, 1 run  and now its OVER-BREAK
- batting team: BHR, Score: 2, Overs: 1.6, Innings: 1, batStrikerName: Imran Ali Butt, batStrikerRuns: 0, non-batStrikerName: Umer Toor, nonbatStrikerRuns: 2,
+Over Summary: batting team: BHR, Score: 2, Overs: 1.6, Innings: 1, batStrikerName: Imran Ali Butt, batStrikerRuns: 0, non-batStrikerName: Umer Toor, nonbatStrikerRuns: 2,
  Aayan Khan to Imran Ali, no run  and now its OVER-BREAK
- batting team: BHR, Score: 5, Overs: 2.6, Innings: 1, batStrikerName: Imran Ali Butt, batStrikerRuns: 2, non-batStrikerName: Umer Toor, nonbatStrikerRuns: 2,
+Over Summary: batting team: BHR, Score: 5, Overs: 2.6, Innings: 1, batStrikerName: Imran Ali Butt, batStrikerRuns: 2, non-batStrikerName: Umer Toor, nonbatStrikerRuns: 2,
  Junaid Siddique to Imran Ali, no run  and now its OVER-BREAK
  Aayan Khan to Umer Toor,   Umer Toor hits FOUR
  Ali Naseer to Imran Ali,   Imran Ali Butt hits FOUR
- batting team: BHR, Score: 14, Overs: 4.6, Innings: 1, batStrikerName: Haider Butt, batStrikerRuns: 0, non-batStrikerName: Sohail Ahmed, nonbatStrikerRuns: 0,
+Over Summary: batting team: BHR, Score: 14, Overs: 4.6, Innings: 1, batStrikerName: Haider Butt, batStrikerRuns: 0, non-batStrikerName: Sohail Ahmed, nonbatStrikerRuns: 0,
  Ali Naseer to Haider Butt, leg byes, 1 run  and now its OVER-BREAK
- batting team: BHR, Score: 15, Overs: 5.6, Innings: 1, batStrikerName: Sohail Ahmed, batStrikerRuns: 0, non-batStrikerName: Haider Butt, nonbatStrikerRuns: 1,
+Over Summary: batting team: BHR, Score: 15, Overs: 5.6, Innings: 1, batStrikerName: Sohail Ahmed, batStrikerRuns: 0, non-batStrikerName: Haider Butt, nonbatStrikerRuns: 1,
  Aayan Khan to Sohail Ahmed, no run  and now its OVER-BREAK
- batting team: BHR, Score: 19, Overs: 6.6, Innings: 1, batStrikerName: Sohail Ahmed, batStrikerRuns: 1, non-batStrikerName: Haider Butt, nonbatStrikerRuns: 3,
+Over Summary: batting team: BHR, Score: 19, Overs: 6.6, Innings: 1, batStrikerName: Sohail Ahmed, batStrikerRuns: 1, non-batStrikerName: Haider Butt, nonbatStrikerRuns: 3,
  Ali Naseer to Sohail Ahmed, 1 run  and now its OVER-BREAK
- batting team: BHR, Score: 25, Overs: 7.6, Innings: 1, batStrikerName: Sohail Ahmed, batStrikerRuns: 6, non-batStrikerName: Haider Butt, nonbatStrikerRuns: 4,
+Over Summary: batting team: BHR, Score: 25, Overs: 7.6, Innings: 1, batStrikerName: Sohail Ahmed, batStrikerRuns: 6, non-batStrikerName: Haider Butt, nonbatStrikerRuns: 4,
  Meiyappan to Sohail Ahmed,   Sohail Ahmed hits FOUR and now its OVER-BREAK
- batting team: BHR, Score: 31, Overs: 8.6, Innings: 1, batStrikerName: Sohail Ahmed, batStrikerRuns: 9, non-batStrikerName: Haider Butt, nonbatStrikerRuns: 7,
+Over Summary: batting team: BHR, Score: 31, Overs: 8.6, Innings: 1, batStrikerName: Sohail Ahmed, batStrikerRuns: 9, non-batStrikerName: Haider Butt, nonbatStrikerRuns: 7,
  Zahoor Khan to Sohail Ahmed, 1 run  and now its OVER-BREAK
- batting team: BHR, Score: 36, Overs: 9.6, Innings: 1, batStrikerName: Haider Butt, batStrikerRuns: 11, non-batStrikerName: Sohail Ahmed, nonbatStrikerRuns: 10,
+Over Summary: batting team: BHR, Score: 36, Overs: 9.6, Innings: 1, batStrikerName: Haider Butt, batStrikerRuns: 11, non-batStrikerName: Sohail Ahmed, nonbatStrikerRuns: 10,
  Meiyappan to Haider Butt, 2 runs  and now its OVER-BREAK
  Zahoor Khan to Haider Butt,   Haider Butt hits FOUR
- batting team: BHR, Score: 45, Overs: 10.6, Innings: 1, batStrikerName: Sohail Ahmed, batStrikerRuns: 13, non-batStrikerName: Haider Butt, nonbatStrikerRuns: 17,
+Over Summary: batting team: BHR, Score: 45, Overs: 10.6, Innings: 1, batStrikerName: Sohail Ahmed, batStrikerRuns: 13, non-batStrikerName: Haider Butt, nonbatStrikerRuns: 17,
  Zahoor Khan to Sohail Ahmed, 1 run  and now its OVER-BREAK
  Aayan Khan to Sohail Ahmed,   Sohail Ahmed hits FOUR
- batting team: BHR, Score: 52, Overs: 11.6, Innings: 1, batStrikerName: Sohail Ahmed, batStrikerRuns: 19, non-batStrikerName: Haider Butt, nonbatStrikerRuns: 18,
+Over Summary: batting team: BHR, Score: 52, Overs: 11.6, Innings: 1, batStrikerName: Sohail Ahmed, batStrikerRuns: 19, non-batStrikerName: Haider Butt, nonbatStrikerRuns: 18,
  Aayan Khan to Sohail Ahmed, 1 run  and now its OVER-BREAK
- batting team: BHR, Score: 58, Overs: 12.6, Innings: 1, batStrikerName: Sohail Ahmed, batStrikerRuns: 24, non-batStrikerName: Haider Butt, nonbatStrikerRuns: 19,
+Over Summary: batting team: BHR, Score: 58, Overs: 12.6, Innings: 1, batStrikerName: Sohail Ahmed, batStrikerRuns: 24, non-batStrikerName: Haider Butt, nonbatStrikerRuns: 19,
  Ali Naseer to Sohail Ahmed, no run  and now its OVER-BREAK
  Meiyappan to Sohail Ahmed,  Caught by Alishan Sharafu!!   Sohail Ahmed is OUT WICKET
- batting team: BHR, Score: 66, Overs: 13.6, Innings: 1, batStrikerName: Junaid Aziz, batStrikerRuns: 2, non-batStrikerName: Haider Butt, nonbatStrikerRuns: 21,
+Over Summary: batting team: BHR, Score: 66, Overs: 13.6, Innings: 1, batStrikerName: Junaid Aziz, batStrikerRuns: 2, non-batStrikerName: Haider Butt, nonbatStrikerRuns: 21,
  Meiyappan to Junaid Aziz, 1 run  and now its OVER-BREAK
  Ali Naseer to Haider Butt,   Haider Butt hits FOUR
- batting team: BHR, Score: 74, Overs: 14.6, Innings: 1, batStrikerName: Haider Butt, batStrikerRuns: 26, non-batStrikerName: Junaid Aziz, nonbatStrikerRuns: 3,
+Over Summary: batting team: BHR, Score: 74, Overs: 14.6, Innings: 1, batStrikerName: Haider Butt, batStrikerRuns: 26, non-batStrikerName: Junaid Aziz, nonbatStrikerRuns: 3,
  Ali Naseer to Haider Butt, no run  and now its OVER-BREAK
- batting team: BHR, Score: 87, Overs: 15.6, Innings: 1, batStrikerName: Haider Butt, batStrikerRuns: 37, non-batStrikerName: Junaid Aziz, nonbatStrikerRuns: 5,
+Over Summary: batting team: BHR, Score: 87, Overs: 15.6, Innings: 1, batStrikerName: Haider Butt, batStrikerRuns: 37, non-batStrikerName: Junaid Aziz, nonbatStrikerRuns: 5,
  Meiyappan to Haider Butt,   Haider Butt hits FOUR and now its OVER-BREAK
- batting team: BHR, Score: 94, Overs: 16.6, Innings: 1, batStrikerName: Haider Butt, batStrikerRuns: 38, non-batStrikerName: Junaid Aziz, nonbatStrikerRuns: 8,
+Over Summary: batting team: BHR, Score: 94, Overs: 16.6, Innings: 1, batStrikerName: Haider Butt, batStrikerRuns: 38, non-batStrikerName: Junaid Aziz, nonbatStrikerRuns: 8,
  Zahoor Khan to Haider Butt, leg byes, 1 run  and now its OVER-BREAK
- batting team: BHR, Score: 104, Overs: 17.6, Innings: 1, batStrikerName: Junaid Aziz, batStrikerRuns: 10, non-batStrikerName: Haider Butt, nonbatStrikerRuns: 46,
+Over Summary: batting team: BHR, Score: 104, Overs: 17.6, Innings: 1, batStrikerName: Junaid Aziz, batStrikerRuns: 10, non-batStrikerName: Haider Butt, nonbatStrikerRuns: 46,
  Junaid Siddique to Junaid Aziz, 1 run  and now its OVER-BREAK
- batting team: BHR, Score: 115, Overs: 18.6, Innings: 1, batStrikerName: Haider Butt, batStrikerRuns: 55, non-batStrikerName: Junaid Aziz, nonbatStrikerRuns: 11,
+Over Summary: batting team: BHR, Score: 115, Overs: 18.6, Innings: 1, batStrikerName: Haider Butt, batStrikerRuns: 55, non-batStrikerName: Junaid Aziz, nonbatStrikerRuns: 11,
 Zahoor Khan to Haider Butt,  Haider Butt hits SIX and now its OVER-BREAK
  Junaid Siddique to Junaid Aziz,   Junaid Aziz hits FOUR
  Junaid Siddique to Junaid Aziz,  Bowled!!   Junaid Aziz is OUT WICKET
  Junaid Siddique to Sathaiya Veerapathiran,  Caught by Aryansh Sharma!!   Sathaiya Veerapathiran is OUT WICKET
- batting team: BHR, Score: 135, Overs: 19.6, Innings: 1, batStrikerName: Haider Butt, batStrikerRuns: 59, non-batStrikerName: Rizwan Butt, nonbatStrikerRuns: 0,
+Over Summary: batting team: BHR, Score: 135, Overs: 19.6, Innings: 1, batStrikerName: Haider Butt, batStrikerRuns: 59, non-batStrikerName: Rizwan Butt, nonbatStrikerRuns: 0,
  Junaid Siddique to Haider Butt,   Haider Butt hits FOUR and now its OVER-BREAK
  Innings 1 ended
  Ali Dawood to Muhammad Waseem,   Muhammad Waseem hits FOUR
  Ali Dawood to Muhammad Waseem,   Muhammad Waseem hits FOUR
  Ali Dawood to Muhammad Waseem,   Muhammad Waseem hits FOUR
- batting team: UAE, Score: 13, Overs: 0.6, Innings: 2, batStrikerName: Muhammad Waseem, batStrikerRuns: 12, non-batStrikerName: Aryansh Sharma, nonbatStrikerRuns: 0,
+Over Summary: batting team: UAE, Score: 13, Overs: 0.6, Innings: 2, batStrikerName: Muhammad Waseem, batStrikerRuns: 12, non-batStrikerName: Aryansh Sharma, nonbatStrikerRuns: 0,
  Ali Dawood to Muhammad Waseem, no run  and now its OVER-BREAK
 Rizwan Butt to Muhammad Waseem,  Caught by Imran Anwar!!  Muhammad Waseem is OUT WICKET
- batting team: UAE, Score: 15, Overs: 1.6, Innings: 2, batStrikerName: Vriitya Aravind, batStrikerRuns: 0, non-batStrikerName: Aryansh Sharma, nonbatStrikerRuns: 1,
+Over Summary: batting team: UAE, Score: 15, Overs: 1.6, Innings: 2, batStrikerName: Vriitya Aravind, batStrikerRuns: 0, non-batStrikerName: Aryansh Sharma, nonbatStrikerRuns: 1,
 Rizwan Butt to Aravind, no run and now its OVER-BREAK
  Ali Dawood to Aryansh Sharma,   Aryansh Sharma hits FOUR
- batting team: UAE, Score: 23, Overs: 2.6, Innings: 2, batStrikerName: Aryansh Sharma, batStrikerRuns: 9, non-batStrikerName: Vriitya Aravind, nonbatStrikerRuns: 0,
+Over Summary: batting team: UAE, Score: 23, Overs: 2.6, Innings: 2, batStrikerName: Aryansh Sharma, batStrikerRuns: 9, non-batStrikerName: Vriitya Aravind, nonbatStrikerRuns: 0,
  Ali Dawood to Aryansh Sharma, no run  and now its OVER-BREAK
 Rizwan Butt to Aravind,  Caught by Imran Ali!!  Vriitya Aravind is OUT WICKET
- batting team: UAE, Score: 31, Overs: 4.6, Innings: 2, batStrikerName: Asif Khan, batStrikerRuns: 5, non-batStrikerName: Alishan Sharafu, nonbatStrikerRuns: 2,
+Over Summary: batting team: UAE, Score: 31, Overs: 4.6, Innings: 2, batStrikerName: Asif Khan, batStrikerRuns: 5, non-batStrikerName: Alishan Sharafu, nonbatStrikerRuns: 2,
  Sathaiya Veerapathiran to Asif Khan,   Asif Khan hits FOUR and now its OVER-BREAK
  Rizwan Butt to Asif Khan,   Asif Khan hits SIX
- batting team: UAE, Score: 38, Overs: 5.6, Innings: 2, batStrikerName: Asif Khan, batStrikerRuns: 11, non-batStrikerName: Alishan Sharafu, nonbatStrikerRuns: 3,
+Over Summary: batting team: UAE, Score: 38, Overs: 5.6, Innings: 2, batStrikerName: Asif Khan, batStrikerRuns: 11, non-batStrikerName: Alishan Sharafu, nonbatStrikerRuns: 3,
  Rizwan Butt to Asif Khan, no run  and now its OVER-BREAK
- batting team: UAE, Score: 39, Overs: 6.6, Innings: 2, batStrikerName: Asif Khan, batStrikerRuns: 11, non-batStrikerName: Alishan Sharafu, nonbatStrikerRuns: 4,
+Over Summary: batting team: UAE, Score: 39, Overs: 6.6, Innings: 2, batStrikerName: Asif Khan, batStrikerRuns: 11, non-batStrikerName: Alishan Sharafu, nonbatStrikerRuns: 4,
  Sathaiya Veerapathiran to Asif Khan, no run  and now its OVER-BREAK
- batting team: UAE, Score: 46, Overs: 7.6, Innings: 2, batStrikerName: Asif Khan, batStrikerRuns: 13, non-batStrikerName: Alishan Sharafu, nonbatStrikerRuns: 9,
+Over Summary: batting team: UAE, Score: 46, Overs: 7.6, Innings: 2, batStrikerName: Asif Khan, batStrikerRuns: 13, non-batStrikerName: Alishan Sharafu, nonbatStrikerRuns: 9,
  Imran Anwar to Asif Khan, no run  and now its OVER-BREAK
- batting team: UAE, Score: 55, Overs: 8.6, Innings: 2, batStrikerName: Asif Khan, batStrikerRuns: 19, non-batStrikerName: Alishan Sharafu, nonbatStrikerRuns: 11,
+Over Summary: batting team: UAE, Score: 55, Overs: 8.6, Innings: 2, batStrikerName: Asif Khan, batStrikerRuns: 19, non-batStrikerName: Alishan Sharafu, nonbatStrikerRuns: 11,
  Sathaiya Veerapathiran to Asif Khan, 1 run  and now its OVER-BREAK
- batting team: UAE, Score: 58, Overs: 9.6, Innings: 2, batStrikerName: Asif Khan, batStrikerRuns: 21, non-batStrikerName: Alishan Sharafu, nonbatStrikerRuns: 12,
+Over Summary: batting team: UAE, Score: 58, Overs: 9.6, Innings: 2, batStrikerName: Asif Khan, batStrikerRuns: 21, non-batStrikerName: Alishan Sharafu, nonbatStrikerRuns: 12,
  Imran Anwar to Asif Khan, 1 run  and now its OVER-BREAK
- batting team: UAE, Score: 61, Overs: 10.6, Innings: 2, batStrikerName: Ali Naseer, batStrikerRuns: 1, non-batStrikerName: Alishan Sharafu, nonbatStrikerRuns: 12,
+Over Summary: batting team: UAE, Score: 61, Overs: 10.6, Innings: 2, batStrikerName: Ali Naseer, batStrikerRuns: 1, non-batStrikerName: Alishan Sharafu, nonbatStrikerRuns: 12,
  Abdul Majid Abbasi to Ali Naseer, 1 run  and now its OVER-BREAK
  Haider Butt to Alishan Sharafu,   Alishan Sharafu hits SIX
- batting team: UAE, Score: 75, Overs: 11.6, Innings: 2, batStrikerName: Alishan Sharafu, batStrikerRuns: 23, non-batStrikerName: Ali Naseer, nonbatStrikerRuns: 3,
+Over Summary: batting team: UAE, Score: 75, Overs: 11.6, Innings: 2, batStrikerName: Alishan Sharafu, batStrikerRuns: 23, non-batStrikerName: Ali Naseer, nonbatStrikerRuns: 3,
  Haider Butt to Alishan Sharafu,   Alishan Sharafu hits FOUR and now its OVER-BREAK
  Abdul Majid Abbasi to Ali Naseer,   Ali Naseer hits FOUR
  Abdul Majid Abbasi to Ali Naseer,   Ali Naseer hits SIX
- batting team: UAE, Score: 91, Overs: 12.6, Innings: 2, batStrikerName: Ali Naseer, batStrikerRuns: 19, non-batStrikerName: Alishan Sharafu, nonbatStrikerRuns: 23,
- batting team: UAE, Score: 95, Overs: 13.6, Innings: 2, batStrikerName: Ali Naseer, batStrikerRuns: 22, non-batStrikerName: Alishan Sharafu, nonbatStrikerRuns: 24,
+Over Summary: batting team: UAE, Score: 91, Overs: 12.6, Innings: 2, batStrikerName: Ali Naseer, batStrikerRuns: 19, non-batStrikerName: Alishan Sharafu, nonbatStrikerRuns: 23,
+Over Summary: batting team: UAE, Score: 95, Overs: 13.6, Innings: 2, batStrikerName: Ali Naseer, batStrikerRuns: 22, non-batStrikerName: Alishan Sharafu, nonbatStrikerRuns: 24,
  Ali Dawood to Ali Naseer, 1 run  and now its OVER-BREAK
- batting team: UAE, Score: 104, Overs: 14.6, Innings: 2, batStrikerName: Alishan Sharafu, batStrikerRuns: 26, non-batStrikerName: Ali Naseer, nonbatStrikerRuns: 28,
+Over Summary: batting team: UAE, Score: 104, Overs: 14.6, Innings: 2, batStrikerName: Alishan Sharafu, batStrikerRuns: 26, non-batStrikerName: Ali Naseer, nonbatStrikerRuns: 28,
  Sathaiya Veerapathiran to Alishan Sharafu, 1 run  and now its OVER-BREAK
  Sachin Kumar to Alishan Sharafu,  Caught by Haider Butt!!   Alishan Sharafu is OUT WICKET
- batting team: UAE, Score: 114, Overs: 15.6, Innings: 2, batStrikerName: Ali Naseer, batStrikerRuns: 35, non-batStrikerName: Basil Hameed, nonbatStrikerRuns: 1,
+Over Summary: batting team: UAE, Score: 114, Overs: 15.6, Innings: 2, batStrikerName: Ali Naseer, batStrikerRuns: 35, non-batStrikerName: Basil Hameed, nonbatStrikerRuns: 1,
  Sachin Kumar to Ali Naseer,   Ali Naseer hits SIX and now its OVER-BREAK
- batting team: UAE, Score: 122, Overs: 16.6, Innings: 2, batStrikerName: Basil Hameed, batStrikerRuns: 2, non-batStrikerName: Ali Naseer, nonbatStrikerRuns: 42,
+Over Summary: batting team: UAE, Score: 122, Overs: 16.6, Innings: 2, batStrikerName: Basil Hameed, batStrikerRuns: 2, non-batStrikerName: Ali Naseer, nonbatStrikerRuns: 42,
  Rizwan Butt to Basil Hameed, no run  and now its OVER-BREAK
  Sachin Kumar to Basil Hameed,   Basil Hameed hits FOUR
- batting team: UAE, Score: 132, Overs: 17.6, Innings: 2, batStrikerName: Basil Hameed, batStrikerRuns: 10, non-batStrikerName: Ali Naseer, nonbatStrikerRuns: 44,
+Over Summary: batting team: UAE, Score: 132, Overs: 17.6, Innings: 2, batStrikerName: Basil Hameed, batStrikerRuns: 10, non-batStrikerName: Ali Naseer, nonbatStrikerRuns: 44,
  Sachin Kumar to Basil Hameed, 1 run  and now its OVER-BREAK
  Imran Anwar to Ali Naseer,   Ali Naseer hits FOUR
  Innings 2 ended

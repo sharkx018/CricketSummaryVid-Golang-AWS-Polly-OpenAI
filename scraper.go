@@ -165,7 +165,7 @@ func scrapeData(link string) ([]string, error) {
 
 				// add the match summary
 				// team batting, total runs made ,total overs, inningID
-				finalResponse = append(finalResponse, fmt.Sprintf(" batting team: %s, Score: %d, Overs: %.1f, Innings: %d, batStrikerName: %s, batStrikerRuns: %d, non-batStrikerName: %s, nonbatStrikerRuns: %d,",
+				finalResponse = append(finalResponse, fmt.Sprintf("Over Summary: batting team: %s, Score: %d, Overs: %.1f, Innings: %d, batStrikerName: %s, batStrikerRuns: %d, non-batStrikerName: %s, nonbatStrikerRuns: %d,",
 					comment.BatTeamName,
 					comment.BatTeamScore,
 					comment.OverNumber,

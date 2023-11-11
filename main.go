@@ -21,11 +21,6 @@ const (
 
 func main() {
 
-	//commentary := []string{
-	//	"a boy is playing",
-	//	"a dog is barking",
-	//}
-
 	// get data from scraper
 	//matchLink := "https://www.cricbuzz.com/cricket-scores/82374/nep-vs-sin-1st-match-group-a-icc-mens-t20i-world-cup-asia-finals-2023"
 	matchLink := "https://www.cricbuzz.com/cricket-scores/82376/uae-vs-bhr-2nd-match-group-b-icc-mens-t20i-world-cup-asia-finals-2023"
@@ -36,7 +31,7 @@ func main() {
 		return
 	}
 
-	chunks := []string{}
+	var chunks []string
 
 	for id, text := range commentary {
 
